@@ -39,7 +39,7 @@
     "immutable": "^3.7.5",
     "invariant": "^2.2.0",
     "prop-types": "^15.5.7",
-    "react-redux": "^4.4.8 || ^5.0.4",
+    "react-redux": "^7.2.6",
     "redux": "^3.0.4"
   },
   "peerDependencies": {
